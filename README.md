@@ -1,5 +1,3 @@
-# Learn DevOps
-
 Se você chegou até aqui, é porque está se garantindo! Vejamos o que se espera tecnicamente de você:
 
 ## Bash
