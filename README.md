@@ -29,7 +29,7 @@ Se você chegou até aqui, é porque está se garantindo! Vejamos o que se esper
 
 ## Projeto de exemplo
 
-Ok, não precisa ficar com medo, mas enfim chegados ao desafio técnico. Se você se perder por qualquer motivo, se acalme e façamos como todo mundo faz no dia a dia: busque ajuda no Google e StackOverflow, ninguém vai te recriminar por isso!
+Ok, não precisa ficar com medo, mas enfim chegamos ao desafio técnico. Se você se perder por qualquer motivo, se acalme e façamos como todo mundo faz no dia a dia: busque ajuda no Google e StackOverflow, ninguém vai te recriminar por isso!
 
 Neste projeto, vamos passar pelos seguintes desafios:
 
