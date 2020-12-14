@@ -1,8 +1,41 @@
 # Learn DevOps
 
-Se você chegou até aqui, é porque está se garantindo!
+Se você chegou até aqui, é porque está se garantindo! Vejamos o que se espera tecnicamente de você:
 
-Não precisa ficar com medo, mas esta etapa já começa com um desafio técnico. Se você se perder por qualquer motivo, se acalme e façamos como todo mundo faz no dia a dia: busque ajuda no Google!
+## Bash
+
+- Compreender como o Terminal funciona
+- Navegar pela estrutura de sistema de arquivos do Linux
+- Manipular arquivos pelo Terminal
+- Redirecionamento de I/O, standard input, standard output, pipes, filtros
+- Permissões
+- Controle de jobs
+- Shell scripts
+
+## Design e gerenciamento de infraestrutura
+
+- Análise avançada de logs
+- SSH avançado
+- Configurar um nome de domínio
+- Compreender o funcionamento do DNS
+- Configurar um certificado SSL
+- Gerenciar servidores web como Apache e Nginx
+- Gerenciar balanceadores de carga
+- Configurar bancos de dados em setups Primary/Replica
+- Gerenciar configurações de Firewall
+- Desenhar infraestruturas de aplicações web
+- Monitorar infraestruturas de aplicações web
+- Resolver problemas de stacks de aplicações web
+
+## Projeto de exemplo
+
+Ok, não precisa ficar com medo, mas enfim chegados ao desafio técnico. Se você se perder por qualquer motivo, se acalme e façamos como todo mundo faz no dia a dia: busque ajuda no Google e StackOverflow, ninguém vai te recriminar por isso!
+
+Neste projeto, vamos passar pelos seguintes desafios:
+
+- Criar uma infraestrutura web como as que sustentam o Facebook, LinkedIn, Twitter, etc.
+- Aprender como trabalhar com escalabilidade
+- Desenvolver ferramentas para ambientes em nuvem (neste projeto utilizaremos a AWS)
 
 **Nota**: Tente implementar o máximo de funcionalidades possíveis e forneça uma descrição detalhada sempre que aplicável.
 
